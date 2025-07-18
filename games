@@ -1,5 +1,5 @@
-{
-  "games": [
+[
+
     {
       "id": 1,
       "title": "Red Dead Redemption 2",
@@ -180,5 +180,5 @@
       "platforms": ["Switch"],
       "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Splatoon_3_cover.jpg"
     }
-  ]
-}
+  
+]
