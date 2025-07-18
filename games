@@ -1,0 +1,184 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Red Dead Redemption 2",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platforms": ["Nintendo Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Super Mario Bros. 3",
+      "platforms": ["NES", "Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Super_Mario_Bros._3_cover.png"
+    },
+    {
+      "id": 4,
+      "title": "NieR: Automata",
+      "platforms": ["PS4", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/NieR_Automata_cover.png"
+    },
+    {
+      "id": 5,
+      "title": "Pokemon Red/Blue",
+      "platforms": ["Game Boy"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/13/PokemonRedBlue.png"
+    },
+    {
+      "id": 6,
+      "title": "Skyrim",
+      "platforms": ["PS4", "Xbox One", "PC", "Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/24/The_Elder_Scrolls_V_Skyrim_cover.png"
+    },
+    {
+      "id": 7,
+      "title": "Shadow of the Colossus",
+      "platforms": ["PS2", "PS4"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Shadow_of_the_Colossus.png"
+    },
+    {
+      "id": 8,
+      "title": "Okami",
+      "platforms": ["PS2", "Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Okami_cover.png"
+    },
+    {
+      "id": 9,
+      "title": "Super Mario Galaxy 2",
+      "platforms": ["Wii"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Super_Mario_Galaxy_2_box_art.png"
+    },
+    {
+      "id": 10,
+      "title": "Grand Theft Auto V",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+    },
+    {
+      "id": 11,
+      "title": "Minecraft",
+      "platforms": ["Mobile", "PC", "Console"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+    },
+    {
+      "id": 12,
+      "title": "Fortnite",
+      "platforms": ["Mobile", "PC", "Console"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fortnite_cover.jpg/220px-Fortnite_cover.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Call of Duty: Black Ops 6",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Call_of_Duty_Black_Ops_Series_Cover.png"
+    },
+    {
+      "id": 14,
+      "title": "Doom: The Dark Ages",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Doom_The_Dark_Ages.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Grounded 2",
+      "platforms": ["Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Grounded_2_cover.png"
+    },
+    {
+      "id": 16,
+      "title": "Wuchang: Fallen Feathers",
+      "platforms": ["Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Wuchang_Fallen_Feathers_cover.jpg"
+    },
+    {
+      "id": 17,
+      "title": "GTA VI",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/GTAVI_cover_placeholder.png"
+    },
+    {
+      "id": 18,
+      "title": "Avowed",
+      "platforms": ["Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Avowed_cover.jpg"
+    },
+    {
+      "id": 19,
+      "title": "High on Life 2",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/High_on_Life_2_cover.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Monument Valley 3",
+      "platforms": ["Mobile", "Switch", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Monument_Valley_3_cover.png"
+    },
+    {
+      "id": 21,
+      "title": "Prince of Persia: The Lost Crown",
+      "platforms": ["PS5", "Xbox Series", "PC", "Mobile"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Prince_of_Persia_The_Lost_Crown_cover.png"
+    },
+    {
+      "id": 22,
+      "title": "Dynasty Warriors: Origins",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/Dynasty_Warriors_Origins_cover.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Black Myth: Wukong",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Black_Myth_Wukong_cover.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Split Fiction",
+      "platforms": ["PS5", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Split_Fiction_cover.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Citizen Sleeper 2",
+      "platforms": ["PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Citizen_Sleeper_2_cover.jpg"
+    },
+    {
+      "id": 26,
+      "title": "The Outer Worlds 2",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_Outer_Worlds_2_cover.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Metal Gear Solid Delta",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Metal_Gear_Solid_Delta_cover.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Mario Kart World",
+      "platforms": ["Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Mario_Kart_World_cover.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Doom Eternal",
+      "platforms": ["PS5", "Xbox Series", "PC"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Doom_Eternal_cover.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Splatoon 3",
+      "platforms": ["Switch"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Splatoon_3_cover.jpg"
+    }
+  ]
+}
